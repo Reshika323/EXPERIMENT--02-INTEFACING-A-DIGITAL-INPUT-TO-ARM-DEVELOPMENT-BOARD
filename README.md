@@ -1,4 +1,6 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+## Name : M RESHIKA
+## REG.NO : 212224220079
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -147,6 +149,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+<img width="997" height="963" alt="image" src="https://github.com/user-attachments/assets/fafd9162-5ab9-4ba2-8f04-4230cb2f3f6f" />
 
  
 ## layout of the circuit 
